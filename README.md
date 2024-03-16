@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="" />
+ <img src="https://github.com/potatoninja42/potatoninja42/blob/main/sv.png" />
 </h1>
 
 ### Hey there! 👋
